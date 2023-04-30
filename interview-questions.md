@@ -52,7 +52,7 @@ Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
-Research and define the following terms to the best of your ability.
+Research and define the following terms to the best of your ability
 
 # 1. Component:
     It typically refers to the definition of a reusable pieces of code to represent a specific piece of functionality or element within an applicatiion
