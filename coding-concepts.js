@@ -106,3 +106,4 @@
     // Learn { student: 'George', cohort: 'Charlie', year: 2023 }
     // Learn is a class that is used as a blueprint to create new objects. There are three objects in this class where the 'student' object is set to the inputted value of the 'name', the 'cohort' set to a string, and the 'year' set to a number. Since "George" was the input and the only one changed, it was passed through the constructor method along with the other two.
     // .this is used here since it's all nested inside the const
+    //
